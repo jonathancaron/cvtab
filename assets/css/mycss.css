@@ -16,8 +16,9 @@ body{
 .line1{
   margin: 0;
   display: block;
-  background-color: black;
+
   z-index: 1;
-  min-width:1600px;
+  width:1480px;
+  margin-top: -4px;
 
 }
