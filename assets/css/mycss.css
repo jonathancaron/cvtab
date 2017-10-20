@@ -4,6 +4,7 @@ body{
   background-color: #b7b7b7;
   width: auto;
   height: auto;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .corps{
   display: block;
@@ -16,9 +17,15 @@ body{
 .line1{
   margin: 0;
   display: block;
-
   z-index: 1;
   width:1480px;
   margin-top: -4px;
 
+}
+.line1{
+  margin: 0;
+  display: block;
+  z-index: 1;
+  width:1480px;
+  margin-top: -4px;
 }
